@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1295157f3d0ea94389b0259b25285d2, type: 3}
+  m_Name: SO_RE_Hydrochloric acid
+  m_EditorClassIdentifier: 
+  _header: "\u0421\u043E\u043B\u044F\u043D\u0430\u044F \u043A\u0438\u0441\u043B\u043E\u0442\u0430"
+  _description: "<b>HCl</b>. \u0421\u0438\u043B\u044C\xAD\u043D\u0430\u044F \u0445\u0438\xAD\u043C\u0438\xAD\u0447\u0435\u0441\xAD\u043A\u0430\u044F
+    \u043D\u0435\xAD\u043E\u0440\xAD\u0433\u0430\xAD\u043D\u0438\xAD\u0447\u0435\u0441\xAD\u043A\u0430\u044F
+    \u043A\u0438\u0441\xAD\u043B\u043E\xAD\u0442\u0430. \u0420\u0430\u0441\xAD\u0442\u0432\u043E\u0440
+    \u0445\u043B\u043E\xAD\u0440\u043E\xAD\u0432\u043E\xAD\u0434\u043E\xAD\u0440\u043E\xAD\u0434\u0430
+    \u0432 \u0432\u043E\xAD\u0434\u0435. \u041F\u0440\u0438\xAD\u0432\u0435\xAD\u0434\u0435\xAD\u043D\u044B
+    \u0434\u0430\u043D\xAD\u043D\u044B\u0435 \u0434\u043B\u044F \u0441\u0442\u0430\u043D\xAD\u0434\u0430\u0440\u0442\xAD\u043D\u044B\u0445
+    \u0443\u0441\u043B\u043E\xAD\u0432\u0438\u0439 (25 \xB0C, 100 \u043A\u041F\u0430),
+    \u0435\u0441\u043B\u0438 \u043D\u0435 \u0443\u043A\u0430\xAD\u0437\u0430\xAD\u043D\u043E
+    \u0438\u043D\u043E\u0435. \u041F\u0440\u0438 \u0441\u0442\u0430\u043D\xAD\u0434\u0430\u0440\u0442\xAD\u043D\u044B\u0445
+    \u0443\u0441\u043B\u043E\xAD\u0432\u0438\xAD\u044F\u0445 \u2014 \u044D\u0442\u043E
+    \u0441\u0438\u043B\u044C\xAD\u043D\u0430\u044F \u043E\u0434\xAD\u043D\u043E\xAD\u043E\u0441\xAD\u043D\u043E\u0432\xAD\u043D\u0430\u044F
+    \u043A\u0438\u0441\xAD\u043B\u043E\xAD\u0442\u0430."
+  _sprite: {fileID: 21300000, guid: 559044e88abd01e4b8203279ae6f93d9, type: 3}
